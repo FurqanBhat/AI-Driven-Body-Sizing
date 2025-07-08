@@ -24,14 +24,5 @@ The model is trained on the BodyM dataset and achieves an **MAE of ~1.40 cm** on
 
 ---
 
-## Dataset Structure
-./data/
-├── train/
-│   ├── mask/
-│   ├── mask_left/
-│   ├── hwg_metadata.csv
-│   ├── measurements.csv
-│   └── subject_to_photo_map.csv
-├── testA/
-├── testB/
+
 
