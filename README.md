@@ -1,7 +1,4 @@
 # AI-Driven-Body-Sizing
-A deep learning pipeline that predicts 14 human body measurements from front and side silhouette images along with height and weight using a fine-tuned EfficientNet-based model. Ideal for tracking fitness and muscle growth. 
-
-
 
 Predict 14 human body measurements from front and side silhouette images, combined with basic inputs like height and weight, using a deep learning pipeline based on EfficientNetV2.
 
